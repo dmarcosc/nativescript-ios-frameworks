@@ -1,7 +1,7 @@
 {
 	"name": "nativescript-ios-frameworks",
-	"version": "1.0.1",
-	"description": "Your awesome NativeScript plugin.",
+	"version": "1.0.5",
+	"description": "Nativescript plugin to add Storekit, AdSupport, AdServices and AppTrackingTransparency ios frameworks.",
 	"main": "ios-frameworks",
 	"typings": "index.d.ts",
 	"nativescript": {
